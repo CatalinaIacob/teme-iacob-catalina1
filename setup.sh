@@ -4,8 +4,8 @@
 #-------------------------------------------------------------------------------
 
 #url of other repos to clone (choose 'git@..' version if you have ssh key configured, https otherwise)
-#CURS_REPO="git@gitlab.com:wantsome/testare-manuala/intro_ta/seria20/curs.git"
-CURS_REPO="https://gitlab.com/wantsome/testare-manuala/intro_ta/seria20/curs.git"
+#CURS_REPO="git@gitlab.com:wantsome/testare-manuala/intro_ta/seria24/curs.git"
+CURS_REPO="https://gitlab.com/wantsome/testare-manuala/intro_ta/seria24/curs.git"
 
 #-------------------------------------------------------------------------------
 
