@@ -1,0 +1,68 @@
+teme/java_course1_intro/Ex2_TimeConverter.java
+ teme.java_course1_intro.Ex2_TimeConverter
+teme/java_course4_collections/ex0_word_count/CountingWords.java
+ teme.java_course4_collections.ex0_word_count.CountingWords
+teme/java_course1_intro/Ex7_AbsoluteValue.java
+ teme.java_course1_intro.Ex7_AbsoluteValue
+teme/java_course2_flow/Ex1_FizzBuzz.java
+ teme.java_course2_flow.Ex1_FizzBuzz
+teme/java_course1_intro/Ex6_MaxValue.java
+ teme.java_course1_intro.Ex6_MaxValue
+teme/java_course2_flow/Ex7_ReverseArray.java
+ teme.java_course2_flow.Ex7_ReverseArray
+teme/java_course4_collections/ex1_building_registry/Building.java
+ teme.java_course4_collections.ex1_building_registry.Building
+teme/java_course2_flow/Ex0a_WarmupFlow.java
+ teme.java_course2_flow.Ex0a_WarmupFlow
+teme/java_course4_collections/ex3_josephus/Josephus.java
+ teme.java_course4_collections.ex3_josephus.Josephus
+teme/java_course2_flow/Ex0b_WarmupArrays.java
+ teme.java_course2_flow.Ex0b_WarmupArrays
+teme/java_course1_intro/Ex10_ComparingShapes.java
+ teme.java_course1_intro.Ex10_ComparingShapes
+teme/java_course1_intro/Ex9_CommonDigit.java
+ teme.java_course1_intro.Ex9_CommonDigit
+teme/java_course3_oop/ex2_room/RoomApp.java
+ teme.java_course3_oop.ex2_room.RoomApp
+teme/java_course1_intro/Ex4_EvenOddChecker.java
+ teme.java_course1_intro.Ex4_EvenOddChecker
+teme/java_course1_intro/Ex3_HeightConverter.java
+ teme.java_course1_intro.Ex3_HeightConverter
+teme/java_course4_collections/ex2_person_registry/Person.java
+ teme.java_course4_collections.ex2_person_registry.Person
+teme/java_course2_flow/Ex3_FinancialSimulation.java
+ teme.java_course2_flow.Ex3_FinancialSimulation
+teme/java_course2_flow/Ex2_FirstPowerAbove.java
+ teme.java_course2_flow.Ex2_FirstPowerAbove
+teme/java_course3_oop/ex1_person/PersonApp.java
+ teme.java_course3_oop.ex1_person.PersonApp
+teme/java_course2_flow/Ex5_CheckArrayIsSorted.java
+ teme.java_course2_flow.Ex5_CheckArrayIsSorted
+teme/java_course3_oop/ex3_point/PointApp.java
+ teme.java_course3_oop.ex3_point.PointApp
+teme/java_course1_intro/Ex8_DigitRemover.java
+ teme.java_course1_intro.Ex8_DigitRemover
+teme/java_course1_intro/Ex1a_CheckTriangleByAngles.java
+ teme.java_course1_intro.Ex1a_CheckTriangleByAngles
+teme/java_course3_oop/ex0_time/TimeApp.java
+ teme.java_course3_oop.ex0_time.TimeApp
+teme/java_course2_flow/Ex4_ArrayToString.java
+ teme.java_course2_flow.Ex4_ArrayToString
+teme/java_course2_flow/Ex6_FilterArray.java
+ teme.java_course2_flow.Ex6_FilterArray
+teme/java_course4_collections/ex2_person_registry/PersonsRegistry.java
+ teme.java_course4_collections.ex2_person_registry.PersonsRegistry
+teme/java_course1_intro/Ex1b_CheckTriangleBySides.java
+ teme.java_course1_intro.Ex1b_CheckTriangleBySides
+teme/java_course3_oop/ex4_complex/ComplexManualTests.java
+ teme.java_course3_oop.ex4_complex.ComplexManualTests
+teme/java_course1_intro/Ex0_WarmupIntro.java
+ teme.java_course1_intro.Ex0_WarmupIntro
+teme/java_course1_intro/Ex5_OrderChecker.java
+ teme.java_course1_intro.Ex5_OrderChecker
+teme/java_course4_collections/ex1_building_registry/Category.java
+ teme.java_course4_collections.ex1_building_registry.Category
+teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
+ teme.java_course4_collections.ex1_building_registry.BuildingRegistry
+teme/java_course3_oop/ex4_complex/Complex.java
+ teme.java_course3_oop.ex4_complex.Complex

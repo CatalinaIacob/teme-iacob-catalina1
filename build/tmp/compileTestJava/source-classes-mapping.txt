@@ -1,0 +1,71 @@
+teme/java_course1_intro/Ex2TimeConverterTest.java
+ teme.java_course1_intro.Ex2TimeConverterTest
+teme/java_course1_intro/Ex4EvenOddCheckerTest.java
+ teme.java_course1_intro.Ex4EvenOddCheckerTest
+teme/java_course2_flow/Ex0a_WarmupFlowTest.java
+ teme.java_course2_flow.Ex0a_WarmupFlowTest
+teme/java_course2_flow/Ex1_FizzBuzzTest.java
+ teme.java_course2_flow.Ex1_FizzBuzzTest
+teme/java_course2_flow/Ex5_CheckArrayIsSortedTest.java
+ teme.java_course2_flow.Ex5_CheckArrayIsSortedTest
+teme/java_course4_collections/ex1_building_registry/BuildingRegistryTest.java
+ teme.java_course4_collections.ex1_building_registry.BuildingRegistryTest
+teme/java_course3_oop/ex4_complex/ComplexTest.java
+ teme.java_course3_oop.ex4_complex.ComplexTest
+teme/java_course2_flow/Ex7_ReverseArrayTest.java
+ teme.java_course2_flow.Ex7_ReverseArrayTest
+teme/java_course1_intro/Ex7AbsoluteValueTest.java
+ teme.java_course1_intro.Ex7AbsoluteValueTest
+teme/java_course4_collections/ex2_person_registry/PersonsRegistryTest.java
+ teme.java_course4_collections.ex2_person_registry.PersonsRegistryTest
+teme/util/ta_utils/DriversPath.java
+ teme.util.ta_utils.DriversPath
+teme/java_course2_flow/Ex3_FinancialSimulationTest.java
+ teme.java_course2_flow.Ex3_FinancialSimulationTest
+teme/java_course2_flow/Ex4_ArrayToStringTest.java
+ teme.java_course2_flow.Ex4_ArrayToStringTest
+teme/java_course4_collections/ex3_josephus/JosephusTest.java
+ teme.java_course4_collections.ex3_josephus.JosephusTest
+teme/java_course1_intro/Ex5OrderCheckerTest.java
+ teme.java_course1_intro.Ex5OrderCheckerTest
+teme/util/java_util/plugin/Grade.java
+ teme.util.java_util.plugin.Grade
+teme/java_course1_intro/Ex6MaxValueTest.java
+ teme.java_course1_intro.Ex6MaxValueTest
+teme/java_course3_oop/ex0_time/TimeTest.java
+ teme.java_course3_oop.ex0_time.TimeTest
+teme/java_course4_collections/ex0_word_count/CountingWordsTest.java
+ teme.java_course4_collections.ex0_word_count.CountingWordsTest
+teme/java_course1_intro/Ex3HeightConverterTest.java
+ teme.java_course1_intro.Ex3HeightConverterTest
+teme/java_course1_intro/Ex8DigitRemoverTest.java
+ teme.java_course1_intro.Ex8DigitRemoverTest
+teme/util/java_util/plugin/GradeRunner.java
+ teme.util.java_util.plugin.GradeRunner
+ teme.util.java_util.plugin.GradeRunner$1
+teme/util/ta_utils/BaseTestClass.java
+ teme.util.ta_utils.BaseTestClass
+teme/java_course1_intro/Ex1BCheckTriangleBySidesTest.java
+ teme.java_course1_intro.Ex1BCheckTriangleBySidesTest
+teme/java_course3_oop/ex3_point/PointTest.java
+ teme.java_course3_oop.ex3_point.PointTest
+teme/util/java_util/TestUtil.java
+ teme.util.java_util.TestUtil
+teme/java_course2_flow/Ex0b_WarmupArraysTest.java
+ teme.java_course2_flow.Ex0b_WarmupArraysTest
+teme/java_course2_flow/Ex6_FilterArrayTest.java
+ teme.java_course2_flow.Ex6_FilterArrayTest
+teme/java_course3_oop/ex2_room/RoomTest.java
+ teme.java_course3_oop.ex2_room.RoomTest
+teme/java_course3_oop/ex1_person/PersonTest.java
+ teme.java_course3_oop.ex1_person.PersonTest
+teme/java_course1_intro/Ex1ACheckTriangleByAnglesTest.java
+ teme.java_course1_intro.Ex1ACheckTriangleByAnglesTest
+teme/java_course2_flow/Ex2_FirstPowerAboveTest.java
+ teme.java_course2_flow.Ex2_FirstPowerAboveTest
+teme/java_course1_intro/Ex10ComparingShapesTest.java
+ teme.java_course1_intro.Ex10ComparingShapesTest
+teme/java_course1_intro/Ex9CommonDigitTest.java
+ teme.java_course1_intro.Ex9CommonDigitTest
+teme/java_course1_intro/Ex0WarmupIntroTest.java
+ teme.java_course1_intro.Ex0WarmupIntroTest
