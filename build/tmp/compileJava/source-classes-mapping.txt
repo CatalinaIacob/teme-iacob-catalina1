@@ -8,6 +8,8 @@ teme/java_course2_flow/Ex1_FizzBuzz.java
  teme.java_course2_flow.Ex1_FizzBuzz
 teme/java_course1_intro/Ex6_MaxValue.java
  teme.java_course1_intro.Ex6_MaxValue
+java_week1/SumaNumerelor.java
+ java_week1.SumaNumerelor
 teme/java_course2_flow/Ex7_ReverseArray.java
  teme.java_course2_flow.Ex7_ReverseArray
 teme/java_course4_collections/ex1_building_registry/Building.java
@@ -18,6 +20,8 @@ teme/java_course4_collections/ex3_josephus/Josephus.java
  teme.java_course4_collections.ex3_josephus.Josephus
 teme/java_course2_flow/Ex0b_WarmupArrays.java
  teme.java_course2_flow.Ex0b_WarmupArrays
+java_week1/SumOfString.java
+ java_week1.SumOfString
 teme/java_course1_intro/Ex10_ComparingShapes.java
  teme.java_course1_intro.Ex10_ComparingShapes
 teme/java_course1_intro/Ex9_CommonDigit.java
@@ -48,6 +52,8 @@ teme/java_course3_oop/ex0_time/TimeApp.java
  teme.java_course3_oop.ex0_time.TimeApp
 teme/java_course2_flow/Ex4_ArrayToString.java
  teme.java_course2_flow.Ex4_ArrayToString
+HelloWorld.java
+ HelloWorld
 teme/java_course2_flow/Ex6_FilterArray.java
  teme.java_course2_flow.Ex6_FilterArray
 teme/java_course4_collections/ex2_person_registry/PersonsRegistry.java
@@ -56,13 +62,23 @@ teme/java_course1_intro/Ex1b_CheckTriangleBySides.java
  teme.java_course1_intro.Ex1b_CheckTriangleBySides
 teme/java_course3_oop/ex4_complex/ComplexManualTests.java
  teme.java_course3_oop.ex4_complex.ComplexManualTests
+java_week1/InterchangeValues.java
+ java_week1.InterchangeValues
+java_week1/CalculVarsta.java
+ java_week1.CalculVarsta
 teme/java_course1_intro/Ex0_WarmupIntro.java
  teme.java_course1_intro.Ex0_WarmupIntro
 teme/java_course1_intro/Ex5_OrderChecker.java
  teme.java_course1_intro.Ex5_OrderChecker
 teme/java_course4_collections/ex1_building_registry/Category.java
  teme.java_course4_collections.ex1_building_registry.Category
-teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
- teme.java_course4_collections.ex1_building_registry.BuildingRegistry
 teme/java_course3_oop/ex4_complex/Complex.java
  teme.java_course3_oop.ex4_complex.Complex
+teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
+ teme.java_course4_collections.ex1_building_registry.BuildingRegistry
+java_week1/TimeConvertor.java
+ java_week1.TimeConvertor
+java_week1/NumarPar.java
+ java_week1.NumarPar
+java_week1/PermisConducere.java
+ java_week1.PermisConducere

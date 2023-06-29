@@ -3,3 +3,5 @@ public class HelloWorld {
         System.out.println("Hello TMTA24!"); //sout //instructiunea de rulat
     }
 }
+
+
