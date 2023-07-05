@@ -2,48 +2,74 @@ package teme.java_course1_intro;
 
 class Ex0_WarmupIntro {
 
+
     static int computeSum(int a, int b) {
         return a + b;
     }
 
+
     static double squareValue(double x) {
-        return -1; //TODO: replace it with your code!
+        int d=9;
+        x=Math.pow(d,2);
+        return x ;
     }
 
     static String joinStrings(String s1, String s2) {
-        return null; //TODO: replace it with your code!
+        String rezultatulMetodei= s1 + ' ' + s2;
+        return rezultatulMetodei;
     }
 
     static int lengthOf(String s) {
-        return 0; //TODO: replace it with your code!
+      int lungimeaCuvantului= s.length();
+        return lungimeaCuvantului;
     }
 
     static int truncate(double x) {
-        return -1; //TODO: replace it with your code!
+        int valoare= (int)x;
+        return valoare ;
     }
 
     static boolean isInInterval(int x, int min, int max) {
-        return false; //TODO: replace it with your code!
+        if (min <= x && x <= max) {
+            return true;
+        } else {
+            return false;
+        }
     }
-
     static boolean sameLength(String s1, String s2) {
-        return false; //TODO: replace it with your code!
+        if (s1 == s2) {
+            return true;
+        } else {
+            return false; //nu verifica aceeasi lungime, ci doar daca is identice, ceva nu am facur bine.
+        }
     }
 
     static boolean atLeastOneTrue(boolean a, boolean b, boolean c) {
-        return false; //TODO: replace it with your code!
+        if ((a && b) || c)
+        {return true;}
+        else {
+        return false;}
     }
 
     static boolean allTrue(boolean a, boolean b, boolean c) {
-        return false; //TODO: replace it with your code!
+        if (a && b && c)
+        {return true;}
+        else{
+        return false;}
     }
 
     static boolean noneTrue(boolean a, boolean b, boolean c) {
-        return false; //TODO: replace it with your code!
+        if (!a && !b && !c)
+        {return true;}
+        else{
+        return false;}
     }
 
     static boolean exactlyTwoTrue(boolean a, boolean b, boolean c) {
-        return false; //TODO: replace it with your code!
+        if((a&&b) || (b&&c) || (a&&c)) {
+            return true;
+        } else{
+        return false;} //nu cred ca am ales bine metoda, sau poate rebuia altfel compus la partea de if.
     }
 
     /**
@@ -53,19 +79,20 @@ class Ex0_WarmupIntro {
     public static void main(String[] args) {
 
         System.out.println("sum(2,3) = " + computeSum(2, 3));
-        System.out.println("square(3) = " + squareValue(3));
+        System.out.println("sum(14,15) = " + computeSum(14, 15));
+        System.out.println("square(9) = " + squareValue(9));
 
         System.out.println();
-        System.out.println("joinStrings('ab', 'cd') = '" + joinStrings("ab", "cd") + "'");
-        System.out.println("lengthOf('abc') = " + lengthOf("abc"));
+        System.out.println("joinStrings('Hello', 'Java') = '" + joinStrings("Hello", "Java") + "'");
+        System.out.println("lengthOf('wantsomejavatime') = " + lengthOf("wantsomejavatime"));
         System.out.println("truncate(3.21) = " + truncate(3.21));
 
         System.out.println();
-        System.out.println("isInInterval(3, 0, 5) = " + isInInterval(3, 0, 5));
+        System.out.println("isInInterval(6, 0, 5) = " + isInInterval(6, 0, 5));
         System.out.println("isInInterval(3, 5, 10) = " + isInInterval(3, 5, 10));
 
         System.out.println();
-        System.out.println("sameLength('abc', '123') = " + sameLength("abc", "123"));
+        System.out.println("sameLength('abc', 'abc') = " + sameLength("abc", "abc"));
         System.out.println("sameLength('ab', '1234') = " + sameLength("ab", "1234"));
 
         System.out.println();
