@@ -1,5 +1,7 @@
 teme/java_course1_intro/Ex2_TimeConverter.java
  teme.java_course1_intro.Ex2_TimeConverter
+java_week2/IfElseIfDemo.java
+ java_week2.IfElseIfDemo
 teme/java_course4_collections/ex0_word_count/CountingWords.java
  teme.java_course4_collections.ex0_word_count.CountingWords
 java_week1/MethodTypes.java
@@ -12,12 +14,14 @@ teme/java_course1_intro/Ex6_MaxValue.java
  teme.java_course1_intro.Ex6_MaxValue
 java_week1/SumaNumerelor.java
  java_week1.SumaNumerelor
+java_week2/ForDemo.java
+ java_week2.ForDemo
 teme/java_course2_flow/Ex7_ReverseArray.java
  teme.java_course2_flow.Ex7_ReverseArray
 teme/java_course4_collections/ex1_building_registry/Building.java
  teme.java_course4_collections.ex1_building_registry.Building
-teme/java_course2_flow/Ex0a_WarmupFlow.java
- teme.java_course2_flow.Ex0a_WarmupFlow
+teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
+ teme.java_course4_collections.ex1_building_registry.BuildingRegistry
 teme/java_course4_collections/ex3_josephus/Josephus.java
  teme.java_course4_collections.ex3_josephus.Josephus
 teme/java_course2_flow/Ex0b_WarmupArrays.java
@@ -36,10 +40,14 @@ java_week1/TimeConvertor.java
  java_week1.TimeConvertor
 teme/java_course1_intro/Ex3_HeightConverter.java
  teme.java_course1_intro.Ex3_HeightConverter
+java_week2/SwitchDemo.java
+ java_week2.SwitchDemo
 teme/java_course4_collections/ex2_person_registry/Person.java
  teme.java_course4_collections.ex2_person_registry.Person
 teme/java_course2_flow/Ex3_FinancialSimulation.java
  teme.java_course2_flow.Ex3_FinancialSimulation
+java_week2/IfDemo.java
+ java_week2.IfDemo
 teme/java_course2_flow/Ex2_FirstPowerAbove.java
  teme.java_course2_flow.Ex2_FirstPowerAbove
 teme/java_course3_oop/ex1_person/PersonApp.java
@@ -60,6 +68,8 @@ teme/java_course2_flow/Ex4_ArrayToString.java
  teme.java_course2_flow.Ex4_ArrayToString
 java_week1/PermisConducere.java
  java_week1.PermisConducere
+java_week2/WhileDemo.java
+ java_week2.WhileDemo
 HelloWorld.java
  HelloWorld
 teme/java_course2_flow/Ex6_FilterArray.java
@@ -74,13 +84,13 @@ java_week1/InterchangeValues.java
  java_week1.InterchangeValues
 java_week1/CalculVarsta.java
  java_week1.CalculVarsta
-teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
- teme.java_course4_collections.ex1_building_registry.BuildingRegistry
+teme/java_course1_intro/Ex0_WarmupIntro.java
+ teme.java_course1_intro.Ex0_WarmupIntro
 teme/java_course1_intro/Ex5_OrderChecker.java
  teme.java_course1_intro.Ex5_OrderChecker
 teme/java_course4_collections/ex1_building_registry/Category.java
  teme.java_course4_collections.ex1_building_registry.Category
 teme/java_course3_oop/ex4_complex/Complex.java
  teme.java_course3_oop.ex4_complex.Complex
-teme/java_course1_intro/Ex0_WarmupIntro.java
- teme.java_course1_intro.Ex0_WarmupIntro
+teme/java_course2_flow/Ex0a_WarmupFlow.java
+ teme.java_course2_flow.Ex0a_WarmupFlow

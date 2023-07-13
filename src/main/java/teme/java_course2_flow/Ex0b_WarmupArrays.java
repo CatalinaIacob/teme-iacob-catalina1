@@ -4,9 +4,12 @@ import java.util.Arrays;
 
 class Ex0b_WarmupArrays {
 
-    static double sum(double[] arr) {
-        //TODO
-        return -1;
+    static double sum(double[] x) {
+        double [] sum= x;
+        for (int i = 0; i < double.leght; i++) {
+            sum += double[i];
+        }
+        return sum;
     }
 
     static double avg(double[] arr) {
