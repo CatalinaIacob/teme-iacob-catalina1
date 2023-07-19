@@ -36,7 +36,7 @@ class Ex0a_WarmupFlow {
         int sum = n;
         for (int i = 0; i < n; i++)
             sum += ((i * i) + (i*i));
-        return sum; //nu sunt multumita de rezultat
+        return sum; //nu sunt multumita de rezultat.
 
     }
 
@@ -47,25 +47,30 @@ class Ex0a_WarmupFlow {
     }
 
     static String dayOfWeek(String x) {
-        String dayOfWeek= "day";
-        if ("day" == "Luni") {
-            System.out.println(1);
-        } else if (dayOfWeek == "Marti") {
-            System.out.println("day"+ 2);
-        } else if (dayOfWeek == "Miercuri") {
-            System.out.println("day"+ 3);
-        } else if (dayOfWeek == "Joi") {
-            System.out.println(4);
-        } else if (dayOfWeek == "Vineri") {
-            System.out.println(5);
-        } else if (dayOfWeek == "Sambata") {
-            System.out.println(6);
-        } else if (dayOfWeek == "Duminica") {
-            System.out.println(7);
-        } else {
-            System.out.println(-1);
+        switch ("x") {
+            case "Monday":
+                System.out.println(1); // ceva nu imi da si nu imi dau seama ce anume.
+                break;
+            case "2":
+                System.out.println("Tuesday");
+                break;
+            case "3":
+                System.out.println("Wednesday");
+                break;
+            case "4":
+                System.out.println("Thursday");
+                break;
+            case "5":
+                System.out.println("Friday");
+                break;
+            case "6":
+                System.out.println("Saturday");
+                break;
+            case "7":
+                System.out.println("Sunday");
+                break;
         }
-        return dayOfWeek;
+        return x;
     }
 
 
@@ -90,7 +95,7 @@ class Ex0a_WarmupFlow {
 //        System.out.println("\nsumSquares(1)= " + sumSquares(1));
 //        System.out.println("sumSquares(4)= " + sumSquares(4));
 
-        System.out.println("\ndayOfWeek('luni') = " + dayOfWeek("luni"));
+        System.out.println("\ndayOfWeek('Monday') = " + dayOfWeek("Monday"));
         System.out.println("dayOfWeek('DUMINICA') = " + dayOfWeek("DUMINICA"));
         System.out.println("dayOfWeek('ViNeRi') = " + dayOfWeek("ViNeRi"));
         System.out.println("dayOfWeek('invalid') = " + dayOfWeek("invalid"));
