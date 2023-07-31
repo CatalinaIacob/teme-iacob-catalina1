@@ -3,7 +3,10 @@ package automation_week1;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import teme.util.ta_utils.BaseTestClass;
 
 import java.util.List;
@@ -14,6 +17,13 @@ public class locatorTypes extends BaseTestClass {
         @Test
 
         public void findLocatorById() {
+
+
+            ChromeOptions chrome = new ChromeOptions();
+            chrome.addArguments("--remote-allow-origins=*");
+
+            WebDriver driver = new ChromeDriver(chrome);
+
             //accesare site
             driver.get("https://testare-manuala.locdejoacapentruitsti.com/blog/login/");
             //identificare element web dupa un anumit tip de locator -By Id
@@ -30,6 +40,13 @@ public class locatorTypes extends BaseTestClass {
         @Test
 
         public void findLocatorByClass () {
+
+
+            ChromeOptions chrome = new ChromeOptions();
+            chrome.addArguments("--remote-allow-origins=*");
+
+            WebDriver driver = new ChromeDriver(chrome);
+
             driver.get("https://testare-manuala.locdejoacapentruitsti.com/blog/login/");
             WebElement searchBar = driver.findElement(By.className("search-field"));
 
@@ -40,6 +57,12 @@ public class locatorTypes extends BaseTestClass {
 
         @Test
         public void findLocatorByName () {
+
+            ChromeOptions chrome = new ChromeOptions();
+            chrome.addArguments("--remote-allow-origins=*");
+
+            WebDriver driver = new ChromeDriver(chrome);
+
             driver.get( "https://testare-manuala.locdejoacapentruitsti.com/blog/login/");
             WebElement inputUsername = driver.findElement(By.name("log"));
             WebElement inputPassword = driver.findElement(By.name("pwd"));
@@ -51,6 +74,12 @@ public class locatorTypes extends BaseTestClass {
         @Test
 
         public void findElementByLinkText (){
+
+            ChromeOptions chrome = new ChromeOptions();
+            chrome.addArguments("--remote-allow-origins=*");
+
+            WebDriver driver = new ChromeDriver(chrome);
+
             driver.get ("https://testare-manuala.locdejoacapentruitsti.com/blog/");
 
             //identificam elementul web dorit pe care vom face interogarea
@@ -61,6 +90,12 @@ public class locatorTypes extends BaseTestClass {
         }
         @Test
         public void findElementByPartialLinkText() {
+
+            ChromeOptions chrome = new ChromeOptions();
+            chrome.addArguments("--remote-allow-origins=*");
+
+            WebDriver driver = new ChromeDriver(chrome);
+
             driver.get("https://testare-manuala.locdejoacapentruitsti.com/blog/");
             //caut elementul care contine "ber2018" -  find element identificat primul gasit care contine "ber 2018";
 
@@ -85,6 +120,12 @@ public class locatorTypes extends BaseTestClass {
         @Test
 
     public void findElementExpectedClass (){
+
+            ChromeOptions chrome = new ChromeOptions();
+            chrome.addArguments("--remote-allow-origins=*");
+
+            WebDriver driver = new ChromeDriver(chrome);
+
             driver.get("https://testare-manuala.locdejoacapentruitsti.com/blog/login/");
             WebElement emailImput = driver.findElement(By.xpath("//*[@name='log']"));
 
@@ -96,6 +137,8 @@ public class locatorTypes extends BaseTestClass {
             String actualPlaceholder = searchBox.getAttribute("placeholder");
             //  String expectedPlaceholder = "Search …";
             Assert.assertEquals( "Search …", actualPlaceholder);
+
+
         }
 
     }

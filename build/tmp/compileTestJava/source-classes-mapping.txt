@@ -14,8 +14,8 @@ teme/java_course2_flow/Ex5_CheckArrayIsSortedTest.java
  teme.java_course2_flow.Ex5_CheckArrayIsSortedTest
 teme/java_course4_collections/ex1_building_registry/BuildingRegistryTest.java
  teme.java_course4_collections.ex1_building_registry.BuildingRegistryTest
-teme/java_course1_intro/Ex9CommonDigitTest.java
- teme.java_course1_intro.Ex9CommonDigitTest
+automation_week1/locatorTypes.java
+ automation_week1.locatorTypes
 teme/java_course3_oop/ex4_complex/ComplexTest.java
  teme.java_course3_oop.ex4_complex.ComplexTest
 automation_week1/FirstElement.java
@@ -54,6 +54,10 @@ automation_week1/Interogation22.java
  automation_week1.Interogation22
 teme/util/ta_utils/BaseTestClass.java
  teme.util.ta_utils.BaseTestClass
+automation_week2/ManipulationDemo.java
+ automation_week2.ManipulationDemo
+automation_week2/ManipulationPractice.java
+ automation_week2.ManipulationPractice
 teme/util/java_util/plugin/GradeRunner.java
  teme.util.java_util.plugin.GradeRunner
  teme.util.java_util.plugin.GradeRunner$1
@@ -81,5 +85,5 @@ teme/java_course1_intro/Ex10ComparingShapesTest.java
  teme.java_course1_intro.Ex10ComparingShapesTest
 teme/java_course1_intro/Ex0WarmupIntroTest.java
  teme.java_course1_intro.Ex0WarmupIntroTest
-automation_week1/locatorTypes.java
- automation_week1.locatorTypes
+teme/java_course1_intro/Ex9CommonDigitTest.java
+ teme.java_course1_intro.Ex9CommonDigitTest
