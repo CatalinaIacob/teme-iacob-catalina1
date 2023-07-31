@@ -16,8 +16,12 @@ teme/java_course1_intro/Ex9_CommonDigit.java
  teme.java_course1_intro.Ex9_CommonDigit
 teme/java_course3_oop/ex2_room/RoomApp.java
  teme.java_course3_oop.ex2_room.RoomApp
+java_week4/ListDemo.java
+ java_week4.ListDemo
 java_week1/TimeConvertor.java
  java_week1.TimeConvertor
+java_week4/Practice.java
+ java_week4.Practice
 teme/java_course4_collections/ex2_person_registry/Person.java
  teme.java_course4_collections.ex2_person_registry.Person
 teme/java_course2_flow/Ex3_FinancialSimulation.java
@@ -28,6 +32,8 @@ teme/java_course2_flow/Ex2_FirstPowerAbove.java
  teme.java_course2_flow.Ex2_FirstPowerAbove
 java_week1/NumarPar.java
  java_week1.NumarPar
+java_week4/Size.java
+ java_week4.Size
 teme/java_course2_flow/Ex5_CheckArrayIsSorted.java
  teme.java_course2_flow.Ex5_CheckArrayIsSorted
 teme/java_course1_intro/Ex8_DigitRemover.java
@@ -40,14 +46,18 @@ java_week1/PermisConducere.java
  java_week1.PermisConducere
 HelloWorld.java
  HelloWorld
+java_week4/ObjectDemo.java
+ java_week4.ObjectDemo
 java_week1/InterchangeValues.java
  java_week1.InterchangeValues
-teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
- teme.java_course4_collections.ex1_building_registry.BuildingRegistry
+java_week1/CalculVarsta.java
+ java_week1.CalculVarsta
 teme/java_course1_intro/Ex5_OrderChecker.java
  teme.java_course1_intro.Ex5_OrderChecker
 teme/java_course3_oop/ex4_complex/Complex.java
  teme.java_course3_oop.ex4_complex.Complex
+teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
+ teme.java_course4_collections.ex1_building_registry.BuildingRegistry
 teme/java_course1_intro/Ex7_AbsoluteValue.java
  teme.java_course1_intro.Ex7_AbsoluteValue
 java_week1/SumaNumerelor.java
@@ -56,8 +66,8 @@ java_week2/ForDemo.java
  java_week2.ForDemo
 teme/java_course2_flow/Ex7_ReverseArray.java
  teme.java_course2_flow.Ex7_ReverseArray
-java_week1/CalculVarsta.java
- java_week1.CalculVarsta
+teme/java_course2_flow/Ex0a_WarmupFlow.java
+ teme.java_course2_flow.Ex0a_WarmupFlow
 teme/java_course4_collections/ex3_josephus/Josephus.java
  teme.java_course4_collections.ex3_josephus.Josephus
 java_week3/Car.java
@@ -80,6 +90,8 @@ teme/java_course3_oop/ex1_person/PersonApp.java
  teme.java_course3_oop.ex1_person.PersonApp
 teme/java_course3_oop/ex3_point/PointApp.java
  teme.java_course3_oop.ex3_point.PointApp
+java_week4/SetDemo.java
+ java_week4.SetDemo
 teme/java_course1_intro/Ex1a_CheckTriangleByAngles.java
  teme.java_course1_intro.Ex1a_CheckTriangleByAngles
 java_week3/Carwheels.java
@@ -98,5 +110,7 @@ teme/java_course1_intro/Ex0_WarmupIntro.java
  teme.java_course1_intro.Ex0_WarmupIntro
 teme/java_course4_collections/ex1_building_registry/Category.java
  teme.java_course4_collections.ex1_building_registry.Category
-teme/java_course2_flow/Ex0a_WarmupFlow.java
- teme.java_course2_flow.Ex0a_WarmupFlow
+java_week4/MapDemo.java
+ java_week4.MapDemo
+java_week4/Day.java
+ java_week4.Day

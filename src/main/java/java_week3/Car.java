@@ -19,7 +19,7 @@ public class Car {
 
         }
 
-    }
+
     public String Descriere () {
         return "Brand: " + marca + "Nuanta: " + culoare + " Design: " + model;
     }
