@@ -43,13 +43,13 @@ public class DropDownPractice extends BaseTestClass {
         int lastDDIndex = dropDownOption.size() -1;
         String lastCountryName = dropDownOption.get(lastDDIndex).getText();
 
-        boolean lastCountryStartsWithK = false;
+        boolean lastCountryEndsWithK = false;
         for (WebElement currentCountry: dropDownOption) {
-            if (lastCountryName.startsWith("K")) {
-                lastCountryStartsWithK = true;
+            if(currentCountry.getText().endsWith("K")) {
+                lastCountryEndsWithK = true;
                 break;
             }
         }
-        Assert.assertFalse("The last country starts with K", lastCountryStartsWithK);
+        Assert.assertFalse("The last country starts with K", lastCountryEndsWithK);
     }
 }
