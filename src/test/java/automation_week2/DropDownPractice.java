@@ -38,18 +38,19 @@ public class DropDownPractice extends BaseTestClass {
         }
         Assert.assertTrue("Arizona is not present on the list", isArizonaPresent);
 
-      //  3. Check if the list contains at least one state ending with “k”.
+      //  3. Check if the list have the last state ending with “k”.
 
         int lastDDIndex = dropDownOption.size() -1;
         String lastCountryName = dropDownOption.get(lastDDIndex).getText();
 
         boolean lastCountryEndsWithK = false;
         for (WebElement currentCountry: dropDownOption) {
-            if(currentCountry.getText().endsWith("K")) {
+            if(currentCountry.getText().endsWith("k")) {
                 lastCountryEndsWithK = true;
                 break;
             }
         }
-        Assert.assertFalse("The last country starts with K", lastCountryEndsWithK);
+        Assert.assertFalse("The last country ends with K", lastCountryEndsWithK);
+
     }
 }
