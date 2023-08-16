@@ -1,6 +1,6 @@
 package automation_week2;
 
-import com.gargoylesoftware.htmlunit.WebWindow;
+
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;

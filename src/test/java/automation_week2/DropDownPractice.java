@@ -9,6 +9,8 @@ import teme.util.ta_utils.BaseTestClass;
 
 import java.util.List;
 
+import static org.junit.Assert.assertFalse;
+
 public class DropDownPractice extends BaseTestClass {
 
     /*
@@ -45,12 +47,12 @@ public class DropDownPractice extends BaseTestClass {
 
         boolean lastCountryEndsWithK = false;
         for (WebElement currentCountry: dropDownOption) {
-            if(currentCountry.getText().endsWith("k")) {
+            if (currentCountry.getText().endsWith("k")) {
                 lastCountryEndsWithK = true;
                 break;
             }
-        }
-        Assert.assertFalse("The last country ends with K", lastCountryEndsWithK);
 
+            Assert.assertFalse("The last country ends with K", lastCountryEndsWithK);
+        }
     }
 }

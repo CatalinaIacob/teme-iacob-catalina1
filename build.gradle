@@ -8,18 +8,35 @@ repositories {
     jcenter()
 }
 
+//dependencies {
+//    //needed for TA part
+//    compile 'org.seleniumhq.selenium:selenium-api:3.13.0'
+//    compile 'org.seleniumhq.selenium:selenium-java:3.141.0'
+//    compile 'org.seleniumhq.selenium:selenium-support:3.13.0'
+//    compile 'org.seleniumhq.selenium:selenium-chrome-driver:3.141.59'
+//    compile 'org.seleniumhq.selenium:selenium-firefox-driver:3.141.59'
+//    compile 'org.seleniumhq.selenium:selenium-htmlunit-driver:2.52.0'
+//
+//
+//    //needed for unit tests in general
+//    compile 'org.apache.commons:commons-lang3:3.9'
+//    testCompile 'junit:junit:4.12'
+//}
 dependencies {
+    testCompile 'junit:junit:4.12'
     //needed for TA part
+    /*
     compile 'org.seleniumhq.selenium:selenium-api:3.13.0'
     compile 'org.seleniumhq.selenium:selenium-java:3.141.0'
     compile 'org.seleniumhq.selenium:selenium-support:3.13.0'
     compile 'org.seleniumhq.selenium:selenium-chrome-driver:3.141.59'
     compile 'org.seleniumhq.selenium:selenium-firefox-driver:3.141.59'
     compile 'org.seleniumhq.selenium:selenium-htmlunit-driver:2.52.0'
-    compile 'org.apache.commons:commons-lang3:3.9'
+    */
 
-    //needed for unit tests in general
-    testCompile 'junit:junit:4.12'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.6.0'
+
+    compile 'org.apache.commons:commons-lang3:3.9'
 }
 
 tasks.withType(JavaCompile) {

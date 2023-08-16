@@ -14,6 +14,7 @@ public class BaseTestClass {
     public void setUpTest() {
         System.setProperty("webdriver.chrome.driver", DriversPath.getDriverDirPath() + "chromedriver" + DriversPath.getDriverExtension());
         ChromeOptions options = new ChromeOptions();
+        options.addArguments("--remote-allow-origins=*");
         options.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"});
         driver = new ChromeDriver(options);
         if (SystemUtils.IS_OS_WINDOWS) {

@@ -6,6 +6,8 @@ teme/java_course4_collections/ex0_word_count/CountingWords.java
  teme.java_course4_collections.ex0_word_count.CountingWords
 java_week1/MethodTypes.java
  java_week1.MethodTypes
+java_week4/Day.java
+ java_week4.Day
 teme/java_course2_flow/Ex1_FizzBuzz.java
  teme.java_course2_flow.Ex1_FizzBuzz
 teme/java_course1_intro/Ex6_MaxValue.java
@@ -56,8 +58,8 @@ teme/java_course1_intro/Ex5_OrderChecker.java
  teme.java_course1_intro.Ex5_OrderChecker
 teme/java_course3_oop/ex4_complex/Complex.java
  teme.java_course3_oop.ex4_complex.Complex
-teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
- teme.java_course4_collections.ex1_building_registry.BuildingRegistry
+java_week4/MapDemo.java
+ java_week4.MapDemo
 teme/java_course1_intro/Ex7_AbsoluteValue.java
  teme.java_course1_intro.Ex7_AbsoluteValue
 java_week1/SumaNumerelor.java
@@ -110,7 +112,5 @@ teme/java_course1_intro/Ex0_WarmupIntro.java
  teme.java_course1_intro.Ex0_WarmupIntro
 teme/java_course4_collections/ex1_building_registry/Category.java
  teme.java_course4_collections.ex1_building_registry.Category
-java_week4/MapDemo.java
- java_week4.MapDemo
-java_week4/Day.java
- java_week4.Day
+teme/java_course4_collections/ex1_building_registry/BuildingRegistry.java
+ teme.java_course4_collections.ex1_building_registry.BuildingRegistry
