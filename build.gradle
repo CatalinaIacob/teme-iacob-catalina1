@@ -23,6 +23,10 @@ repositories {
 //    testCompile 'junit:junit:4.12'
 //}
 dependencies {
+    testImplementation 'org.testng:testng:7.1.0'
+    testImplementation 'org.testng:testng:7.1.0'
+    testImplementation 'org.testng:testng:7.1.0'
+    testImplementation 'org.testng:testng:7.1.0'
     testCompile 'junit:junit:4.12'
     //needed for TA part
     /*
@@ -34,7 +38,7 @@ dependencies {
     compile 'org.seleniumhq.selenium:selenium-htmlunit-driver:2.52.0'
     */
 
-    implementation 'org.seleniumhq.selenium:selenium-java:4.6.0'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.11.0'
 
     compile 'org.apache.commons:commons-lang3:3.9'
 }
